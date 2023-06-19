@@ -1,1 +1,1 @@
-<!-- readme -->
+<!-- Duplicado de #2 -->
